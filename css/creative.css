@@ -103,7 +103,7 @@ header .overlay {
   position: absolute;
   top: 0;
   left: 0;
-  height: 200%;
+  height: 100%;
   width: 100%;
   background-color: rgba(255, 115, 0, 0.25);
   opacity: 0.5;
@@ -112,7 +112,7 @@ header .overlay {
 
 @media (pointer: coarse) and (hover: none) {
   header {
-    background: url('https://source.unsplash.com/XT5OInaElMw/1600x900') black no-repeat center center scroll;
+    background: url('header/For_Wes.jpg') black no-repeat center center scroll;
 
   }
   header video {
