@@ -112,7 +112,7 @@ header .overlay {
 
 @media (pointer: coarse) and (hover: none) {
   header {
-    background: url('video/Snapshots/Push-The-Buttons') black no-repeat center center scroll;
+    background: url('video/Snapshots/Undo') black no-repeat center center scroll;
 
   }
   header video {
@@ -124,7 +124,7 @@ header .overlay {
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
-
+3
 hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
